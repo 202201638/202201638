@@ -1,154 +1,112 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
+<!-- ========================================================= -->
+<!-- ===================== HERO SECTION ====================== -->
+<!-- ========================================================= -->
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding animation" />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
+<h3 align="center">Software Engineer | Full Stack Web Developer</h3>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=202201638.202201638&right_color=blueviolet&left_text=Profile%20views"  />
-</div>
+<p align="center">
+  🚀 Building scalable web applications<br/>
+  💡 Competitive Programmer & Problem Solver<br/>
+  🌍 Passionate about clean code & modern UI
+</p>
 
-###
+<hr/>
 
-<h1 align="center">Hi, I'm Ahmed Gamal</h1>
-
-###
-
-<h3 align="center">Software Engineer | Web Developer | Full Stack</h3>
-
-###
-
-<h2 align="center">Check My Popular Profile</h2>
-
-###
-
-<h4 align="left">🛠 Connect & Competitive Programming</h4>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</div>
-
-###
-
-<h4 align="left">🛠 Top Technical Skills Languges & tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ocaml/EC6813" height="40" alt="ocaml logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/processingfoundation/006699" height="40" alt="processing logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<!-- ========================================================= -->
+<!-- ===================== SOCIAL BADGES ===================== -->
+<!-- ========================================================= -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=202201638&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://www.linkedin.com" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </div>
 
-###
+<hr/>
 
-<br clear="both">
+<!-- ========================================================= -->
+<!-- ===================== PROFILE VIEWS ==================== -->
+<!-- ========================================================= -->
 
-<img src="https://raw.githubusercontent.com/202201638/202201638/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=202201638.202201638&left_text=Profile%20Views&right_color=blueviolet" />
+</div>
 
-###
+<hr/>
 
-<br clear="both">
+<!-- ========================================================= -->
+<!-- ===================== CONNECT SECTION ================== -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=youtube" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=telegram" height="48"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="48"/></a>
+</div>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- ===================== TECH STACK ======================= -->
+<!-- ========================================================= -->
+
+<h2 align="center">🛠 Tech Stack & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,ts,html,css,react,angular,vue,next,nodejs,fastapi,flutter,dart,mongodb,postgres,docker,git,figma,vscode,androidstudio,unity&perline=8" />
+</div>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- ===================== GITHUB STATS ===================== -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=202201638&theme=tokyonight&hide_border=true&border_radius=6" height="200" />
+</div>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- ===================== SNAKE ANIMATION ================= -->
+<!-- ========================================================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/202201638/202201638/output/snake.svg" alt="snake animation" />
+</div>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- ===================== PACMAN GRAPH ===================== -->
+<!-- ========================================================= -->
+
+<h2 align="center">🟡 Pac-Man Contribution Graph</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/202201638/202201638/output/pacman-contribution-graph-dark.svg">
@@ -156,4 +114,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/202201638/202201638/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<hr/>
+
+<!-- ========================================================= -->
+<!-- ===================== FOOTER QUOTE ===================== -->
+<!-- ========================================================= -->
+
+<h3 align="center">✨ Quote</h3>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
+  — Cory House
+</p>
+
+<!-- ===================== END ============================== -->
