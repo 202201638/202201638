@@ -142,9 +142,13 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/202201638/202201638/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/202201638/202201638/output/pacman-contribution-graph-dark.svg">
